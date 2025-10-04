@@ -1,0 +1,49 @@
+📌 Result Summary
+
+Final Efficiency
+56.8%
+Final Energy Output
+0.235 J
+Final Temperature
+125.0 °C
+Total Degradation
+12.0%
+
+📌 Key Observations
+
+Efficiency Trend:
+Starts at 57.2%
+Gradually decreases due to material degradation
+Ends at 56.8% after 100 days
+
+ Energy Output:
+Starts at 0.236 J
+Slightly decreases due to thermal losses
+Ends at 0.235 J
+
+ Temperature:
+Starts at 25°C
+Increases by 0.1°C per day
+Ends at 125°C after 100 days
+
+ Material Degradation:
+Starts at 0%
+Increases by 0.12% per day
+Ends at 12.0% after 100 days
+
+ Thermal Losses:
+Starts at 0%
+Increases by 0.05% per day
+Ends at 5.0% after 100 days
+
+ 📌 Conclusion
+
+After 100 days of simulation:
+
+Efficiency decreased from 57.2% to 56.8%
+Energy output decreased from 0.236 J to 0.235 J
+Temperature increased from 25°C to 125°C
+Material degradation reached 12.0%
+Thermal losses reached 5.0%
+
+ 📌 The system remains stable but shows signs of thermal runaway risk at higher temperatures.
