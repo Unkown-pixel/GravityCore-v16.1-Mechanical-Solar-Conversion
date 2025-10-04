@@ -27,8 +27,8 @@ class GravityCoreAnnualSimulator:
         # Thermal losses
         thermal_loss = self.thermal_loss_rate * day
         
-        # Base efficiency (57.2%)
-        base_efficiency = 0.572
+        # Base efficiency (70%)
+        base_efficiency = 0.70
         
         # Efficiency calculation
         efficiency = base_efficiency - degradation - thermal_loss
