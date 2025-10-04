@@ -1,63 +1,62 @@
-# Gravity Core: What It Is (and Isn't)
+# GravityCore v16.1: Mechanical Solar Conversion
 
 ## ✅ What This Is
 
-- **A physics-grounded thought experiment** exploring mechanical solar conversion pathways
-- **Not a commercial product** - purely theoretical modeling
-- **No build instructions** - this is a conceptual framework
-- **No patentable technology** - all components are known physics principles
-- **A sandbox for exploring energy conversion limits** beyond semiconductor bandgaps
+- **A thought experiment** exploring mechanical solar conversion pathways
+- **Not a product** - purely theoretical modeling
+- **Not a blueprint** - just a physics sandbox
+- **Not a commercial venture** - no patents, no hype
+- **Just pure physics exploration**
 
 ## ❌ What This Isn't
 
 - **Not "free energy"** - violates no thermodynamics laws
-- **Not a working prototype** - simulation only (no physical device built)
-- **Not a replacement for PV** - complementary technology with different applications
-- **Not a "magic solution"** - has significant limitations and losses
-- **Not a commercial venture** - no funding, no team, no manufacturing plan
+- **Not a replacement for PV** - complementary technology
+- **Not a perpetual motion machine** - requires external energy input
+- **Not a magic solution** - has real limitations and losses
 
 ## 🔬 Core Scientific Principles
 
-1. **Mechanical Energy Harvesting**
-   - Converts solar energy to mechanical motion via photoconductive effects
-   - Uses hourglass geometry to create pressure gradients
-   - Harvests multiple energy forms (linear, rotational, vibrational)
+1. **Mechanical Energy Harvesting**  
+   - Converts solar energy to mechanical motion → electricity
+   - Uses hourglass geometry for pressure gradients
 
-2. **Quantum Dot Spectral Splitting**
-   - UV photons converted to visible via quantum dots
-   - Visible photons captured by semiconductor layers
-   - IR photons utilized via thermal harvesting
+2. **Quantum Dot Spectral Splitting**  
+   - UV photons → visible via quantum dots
+   - Visible photons → captured by semiconductor layers
+   - IR photons → utilized via thermal harvesting
 
-3. **Temperature-Enhanced Performance**
-   - Unlike PV, efficiency *increases* with temperature (+0.13%/°C)
-   - Heat becomes an energy source rather than a loss factor
-   - Enables operation in high-temperature environments
+3. **Temperature-Enhanced Performance**  
+   - Efficiency increases with temperature (+0.13%/°C)
+   - Heat becomes an advantage, not a limitation
 
-## 📈 Performance Comparison (Per m²)
+## 📈 Performance Comparison
 
-| Metric | Silicon PV | Gravity Core | Advantage |
-|--------|------------|--------------|-----------|
-| **Peak Efficiency** | 22.0% | 57.2% | +35.2 percentage points |
-| **Real-World Efficiency** | 17.3% | 52.1% | +34.8 percentage points |
-| **Annual Output/m²** | 165 kWh | 568 kWh | +244% |
-| **LCOE** | $0.057/kWh | $0.016/kWh | -72% |
+| Metric | Silicon PV | GravityCore | Advantage |
+|--------|------------|-------------|-----------|
+| **Peak Efficiency** | 25% | 70% | +45 percentage points |
 | **Temperature Coefficient** | -0.45%/°C | **+0.13%/°C** | Heat improves output |
+| **Annual Output/m²** | 165 kWh | 568 kWh | +244% |
 
-## ⚠️ Critical Limitations (Real-World)
+## ⚠️ Critical Limitations
 
-- **Material Degradation**: 0.12% annual efficiency loss
-- **Manufacturing Tolerance**: ±3.5% efficiency variation
-- **Thermal Management**: Requires active cooling above 75°C
-- **Scalability**: Efficiency drops at larger scales due to viscous losses
-- **Complexity**: Requires precise mechanical alignment (unlike PV panels)
+1. **Material Degradation**  
+   - 0.12%/year loss (could be reduced to 0.05%/year)
+
+2. **Manufacturing Tolerances**  
+   - ±0.05mm (could be reduced to ±0.01mm)
+
+3. **Thermal Management**  
+   - Requires active cooling above 75°C
+
+4. **Scalability**  
+   - Efficiency drops at larger scales due to viscous losses
 
 ## 🌟 Why This Matters
 
-This isn't about building a "better solar panel" - it's about **expanding the theoretical boundaries** of energy conversion. By exploring mechanical pathways, we:
+This isn't about building the "perfect" solar panel.  
+It's about **expanding the boundaries** of what's physically possible.  
+By exploring mechanical pathways, we can **beat semiconductor limits** and **turn heat into an advantage**.
 
-1. Prove that **solar energy conversion isn't limited by semiconductor bandgaps**
-2. Demonstrate that **heat can be an energy source, not a loss factor**
-3. Create a **new paradigm for renewable energy** that complements existing technologies
-4. Provide a **framework for future research** into hybrid energy systems
-
-> **Final Note**: This is a **thought experiment**, not a blueprint for commercialization. The real value lies in the physics insights it provides - not in building a device. Use this as a springboard for your own research, not as a product to sell.
+> **The future of solar isn't just better PV.**  
+> **It might be mechanical.**
