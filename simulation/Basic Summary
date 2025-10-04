@@ -1,19 +1,14 @@
-
 ### ✅ **Hourglass Design**
 - **Hourglass track geometry** with **narrow waist** (0.01m radius) and **wide ends** (0.015m radius)
 - **Magnetic field modulation** via **rotating permanent magnets** in the hourglass
 - **Pressure gradient** created by **solar-driven fluid flow** through the hourglass
 - **Mechanical energy harvesting** from **linear motion**, **rotation**, and **vibration**
 
----
-
 ### ✅ **Magnetic Field Modulation**
 - **Rotating permanent magnets** create **oscillating magnetic fields**
 - **Field modulation** enhances **photoconductive response** in semiconductor layers
 - **Magnetic field strength**: 0.5 Tesla (adjustable via magnet rotation speed)
 - **Field frequency**: 100 Hz (tuned to match mechanical resonance)
-
----
 
 ### ✅ **Multi-Mode Energy Harvesting**
 1. **Linear Harvesting**: Piezoelectric elements convert **linear motion**  
@@ -27,16 +22,12 @@
 5. **Electrostatic Harvesting**: Variable capacitors harvest **charge separation**  
    - Efficiency: 65.2%
 
----
-
 ### ✅ **Key Physical Principles**
 1. **Venturi Effect**: Fluid speed increases in narrow section → pressure drop → mechanical motion
 2. **Photoconductive Response**: Light intensity changes semiconductor resistance → energy modulation
 3. **Thermoelectric Effect**: Temperature gradient → voltage via Seebeck effect
 4. **Electromagnetic Induction**: Moving magnets → changing flux → current in coils
 5. **Piezoelectric Effect**: Mechanical stress → charge separation → voltage
-
----
 
 ### ✅ **Energy Flow Summary**
 | Stage | Input (J) | Output (J) | Loss (J) | Loss % |
@@ -49,8 +40,6 @@
 | Multi-Mode Harvesting | 0.175 | 0.135 | 0.040 | 22.9% |
 | **TOTAL** | **0.236** | **0.135** | **0.101** | **42.8%** |
 
----
-
 ### ✅ **Key Components**
 1. **Hourglass Track**: Fluid channel with **narrow waist** for pressure gradient
 2. **Magnetic Rods**: Permanent magnets for **field modulation**
@@ -58,28 +47,20 @@
 4. **Energy Harvesters**: Piezoelectric, electromagnetic, thermoelectric, electrostatic
 5. **Fluid Medium**: Water or oil for **mechanical energy transfer**
 
----
-
 ### ✅ **Temperature Response**
 - **Efficiency increases with temperature**: +0.13%/°C
 - **Optimal range**: 25-75°C
 - **Above 75°C**: Thermal runaway risk → efficiency drops
-
----
 
 ### ✅ **Material Degradation**
 - **Graphene**: 0.09%/year degradation
 - **CdTe**: 0.15%/year degradation
 - **Net annual loss**: 0.12%
 
----
-
 ### ✅ **Scalability**
 - **Small scale**: High efficiency (57.2%)
 - **Large scale**: Efficiency drops due to **viscous losses**
 - **Optimal size**: 1-10 cm diameter
-
----
 
 ### ✅ **Real-World Applications**
 1. **High-temperature environments** (deserts, industrial settings)
@@ -87,23 +68,17 @@
 3. **Mechanical energy harvesting** in remote locations
 4. **Thermal management** for electronics
 
----
-
 ### ✅ **Limitations**
 1. **Material degradation**: 0.12% annual efficiency loss
 2. **Manufacturing tolerances**: ±3.5% efficiency variation
 3. **Thermal management**: Requires active cooling above 75°C
 4. **Scalability**: Efficiency drops at larger scales
 
----
-
 ### ✅ **Future Research**
 1. **Material science**: Graphene-CdTe composites for improved photoconductive response
 2. **Hybrid systems**: Combine Gravity Core with traditional PV
 3. **Scalability studies**: Optimize size ranges for different applications
 4. **Energy accounting**: Develop standardized methods for tracking all energy flows
-
----
 
 ### ✅ **Conclusion**
 This is a **thought experiment**, not a commercial product. The **hourglass design** with **magnetic field modulation** and **multi-mode energy harvesting** demonstrates that **mechanical pathways can theoretically beat photovoltaics** by:
