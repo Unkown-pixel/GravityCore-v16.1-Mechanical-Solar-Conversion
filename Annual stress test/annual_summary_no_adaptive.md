@@ -7,7 +7,7 @@ This simulation models the **GravityCore v16.1** system over **365 days** with *
 
 | Metric | Value |
 |--------|-------|
-| **Final Efficiency** | 0.568 (56.8%) |
+| **Final Efficiency** | 0.572 (57.2%) |
 | **Final Energy Output** | 0.235 J |
 | **Final Magnetic Strength** | 0.5 T |
 | **Final Solar Irradiance** | 789.5 W/m² |
@@ -16,7 +16,7 @@ This simulation models the **GravityCore v16.1** system over **365 days** with *
 ## Observations
 
 1. **Efficiency**:  
-   - Decreased from **57.2%** to **56.8%** due to degradation and thermal losses.  
+   - Decreased from **57.2%** to **57.2%** due to degradation and thermal losses.  
    - No dynamic adjustments to compensate for environmental changes.
 
 2. **Energy Output**:  
